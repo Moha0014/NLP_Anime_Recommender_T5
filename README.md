@@ -1,4 +1,4 @@
-# NLP_Anime_Recommender_T5
+# Anime Recommender System
 
 Firstly, The word anime pronounced "ah-knee-may" is an abbreviation of the word animation. In Japan, the word is used to refer to all animation. However, outside of Japan, it has become the catch-all term for animation from Japan. Secondly, anime is popular thing in entire world because it has special and different characters to present story that make it interesting for the audience and also the anime present the story from Manga which have the real story from the writer.
  
