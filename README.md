@@ -5,7 +5,7 @@ Firstly, The word anime pronounced "ah-knee-may" is an abbreviation of the word 
 ## Problem Statement:
 In simple words, anime has a very large field as in movies and series and that's why we need a system of recommendations for viewers based on their interests and their favorite anime type.
 
-# Dataset Description:
+## Dataset Description:
 This data has more than 19000 rows and 12 columns., This dataset can be found at [Kaggle](https://www.kaggle.com/marlesson/myanimelist-dataset-animes-profiles-reviews).
 
 
