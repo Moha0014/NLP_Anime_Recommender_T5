@@ -38,7 +38,6 @@ This data has more than 19000 rows and 12 columns., This dataset can be found at
 ## Models
 - Preprocessing text 
 - Topic Modelling
-- Mallet
 - Recommendation system 
 - Deployment
 
