@@ -40,7 +40,7 @@ This data has more than 19000 rows and 12 columns., This dataset can be found at
 - Topic Modelling
 - Mallet
 - Recommendation system 
-- Deployment.
+- Deployment
 
 ## Tools
 There are tools that will be used to achieve the goal of this study, such as: pandas, numpy, matplotlib for discovering the data, The work will be done through:
