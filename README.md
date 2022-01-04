@@ -35,25 +35,23 @@ This data has more than 19000 rows and 12 columns., This dataset can be found at
  </tr>
 </table>
 
-## Workflow
+## Models
 - Preprocessing text 
 - Topic Modelling
+- Mallet
 - Recommendation system 
 - Deployment.
 
-
-
-
-
 ## Tools
-There are tools that will be used to achieve the goal of this study, such as: pandas, numpy, matplotlib for discovering the data, The work will be done through PyCharm
-Visual Studio Code
-Flask
-Figma
-Heroku
-Mallet
-Colab
-(Python Packages)
-Zoom
-Google Drive
-Power Point
+There are tools that will be used to achieve the goal of this study, such as: pandas, numpy, matplotlib for discovering the data, The work will be done through:
+- PyCharm
+- Visual Studio Code
+- Flask
+- Figma
+- Heroku
+- Mallet
+- Colab
+- (Python Packages)
+- Zoom
+- Google Drive
+- Power Point
